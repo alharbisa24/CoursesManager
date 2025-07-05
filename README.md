@@ -16,7 +16,3 @@ CoursesManager system build using laravel, FilamentPHP.
 ![Courses Manager](https://raw.githubusercontent.com/alharbisa24/CoursesManager/main/images/courses.png)
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
